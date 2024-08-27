@@ -4,9 +4,9 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 import { useState } from "react";
-import api from "./Services/api";
+import api from "./Services/api.js";
 
-import Weather from "./Components/Weather";
+import Weather from "./Components/Weather/index.js";
 
 function App() {
   const [city, setCity] = useState("");
