@@ -56,7 +56,3 @@ O Weather App é uma aplicação que fornece informações meteorológicas em te
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Para mais informações, entre em contato pelo email: seu-email@exemplo.com
